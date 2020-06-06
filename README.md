@@ -1,2 +1,2 @@
 # fullstack
-Fullstack open 2020 course
+Fullstack open 2020 course.
